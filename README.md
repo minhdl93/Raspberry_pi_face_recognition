@@ -1,5 +1,5 @@
 # Fast-raspberry-pi-face-detection-and-recognition
-Raspberry pi face detection and recognition with face rotational invariance
+Raspberry pi face detection and recognition with face rotational invariance based on Haar cascade and local binary pattern approach
 
 If you have just set up the raspberry and the camera. Then please follow this [**tutorials**](http://www.pyimagesearch.com/2016/04/18/install-guide-raspberry-pi-3-raspbian-jessie-opencv-3/) for installing opencv and python. That a very good starting point.
 
@@ -20,3 +20,7 @@ P/S: Open changeImageName, you can put all image of a user to image_here folder 
 ![](https://github.com/DangLienMinh/Fast-raspberry-pi-face-detection-and-recognition/blob/master/upload/2017-04-01-155503_1184x624_scrot.png)
 ![](https://github.com/DangLienMinh/Fast-raspberry-pi-face-detection-and-recognition/blob/master/upload/2017-04-01-155547_1184x624_scrot.png)
 ![](https://github.com/DangLienMinh/Fast-raspberry-pi-face-detection-and-recognition/blob/master/upload/2017-04-01-155602_1184x624_scrot.png)
+
+**References:**
+[1] Dasgupta, Anirban, et al. "A Vision-Based System for Monitoring the Loss of Attention in Automotive Drivers." IEEE Trans. Intelligent Transportation Systems 14.4 (2013): 1825-1838
+[2] Ahonen, Timo, Abdenour Hadid, and Matti Pietikainen. "Face description with local binary patterns: Application to face recognition." IEEE transactions on pattern analysis and machine intelligence 28.12 (2006): 2037-2041.
