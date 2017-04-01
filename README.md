@@ -1,5 +1,5 @@
 # Fast-raspberry-pi-face-detection-and-recognition
-Raspberry pi face detection and recognition with face rotational invariance based on Haar cascade and local binary pattern approach
+Raspberry pi face detection and recognition with face rotational invariance based on **Haar cascade** and **local binary pattern** approach
 
 If you have just set up the raspberry and the camera. Then please follow this [**tutorials**](http://www.pyimagesearch.com/2016/04/18/install-guide-raspberry-pi-3-raspbian-jessie-opencv-3/) for installing opencv and python. That a very good starting point.
 
