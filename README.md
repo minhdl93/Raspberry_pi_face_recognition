@@ -19,7 +19,12 @@ If you have just set up the raspberry and the camera. Then please follow this [*
 3. After completing the training, please run: **python FaceRecognizer.py** to fire up the camera
 ![](https://github.com/DangLienMinh/Fast-raspberry-pi-face-detection-and-recognition/blob/master/upload/2017-04-01-155503_1184x624_scrot.png)
 ![](https://github.com/DangLienMinh/Fast-raspberry-pi-face-detection-and-recognition/blob/master/upload/2017-04-01-155547_1184x624_scrot.png)
+
+#Face not in frontal position
+
 ![](https://github.com/DangLienMinh/Fast-raspberry-pi-face-detection-and-recognition/blob/master/upload/2017-04-01-155602_1184x624_scrot.png)
+
+#Face not in frontal position
 
 **References:**
 
